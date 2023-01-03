@@ -1,0 +1,10 @@
+.venv 
+
+*.amlignore*
+*.amltmp*
+*.swp
+.ipynb_aml_checkpoints/
+*.zip
+LunarLander-v2-a2c-video/
+LunarLander-v2-video/
+LunarLander-v2/
